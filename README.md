@@ -17,7 +17,7 @@
 
 ## 🖼️ Projets récents
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leocottaz&repo=Chat-en-ligne)](https://github.com/leocottaz/Chat-en-ligne) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leocottaz&repo=Jeu-echec)](https://github.com/leocottaz/Jeu-echec)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leocottaz&repo=MyChat)](https://github.com/leocottaz/MyChat) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leocottaz&repo=MyChessGame)](https://github.com/leocottaz/MyChessGame)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leocottaz&repo=MyCorewar)](https://github.com/leocottaz/MyCorewar) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leocottaz&repo=Wolf3D)](https://github.com/leocottaz/Wolf3D)
 
 ---
