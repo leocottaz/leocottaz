@@ -9,8 +9,8 @@
 ## 🚀 À propos de moi
 
 - 🎓 Je suis étudiant en informatique à Epitech
-- 🛠️ J’utilise principalement : `Python`, `C`, `PHP`, `HTML/CSS/JS`
-- 🌱 En ce moment j’apprends : `React` et `Tailwind CSS`
+- 🛠️ J’utilise principalement : `Python`, `C`, `PHP`, `React/Tailwind CSS`
+- 🌱 En ce moment j’apprends : `Next.JS` et `Nest.js`
 - 📫 Contact : Par mail ([cottazleo@gmail.com](mailto:cottazleo@gmail.com)) ou sur [LinkedIn](https://linkedin.com/in/leocottaz)
 
 ---
